@@ -1,0 +1,32 @@
+
+26.4.2021, 15:28:57 - INFO - Server is running on port: 3030 
+26.4.2021, 15:34:03 - DEBUG - auth.service - login with email: guest@gmail.com (sid: OA7KA-Ofmr6suSK13ffLRQX75CjeQ7T6)
+26.4.2021, 15:34:54 - DEBUG - auth.service - login with email: puki@gmail.com (sid: kcmTmuVthOTgYEbSmN_QA-maZPrASqsu)
+26.4.2021, 15:36:07 - DEBUG - auth.service - login with email: puki@gmail.com (sid: GB3_DZnHwGLeHEBjWY4T_V_FTnqGRu-y)
+26.4.2021, 15:37:56 - DEBUG - auth.service - login with email: puki@gmail.com (sid: US-jaNvEv2r7AnST-9_4AwSJEIBkdaT5)
+26.4.2021, 15:50:03 - DEBUG - auth.service - login with email: puki@gmail.com (sid: wmzG0F6uef-itpRKh9Vh2O_RTd_T8qQ2)
+26.4.2021, 15:53:01 - DEBUG - auth.service - login with email: puki@gmail.com (sid: uP7lXEhtTkO2qd2s90bCUE8-ls5RBu-K)
+26.4.2021, 16:03:31 - DEBUG - auth.service - login with email: puki@gmail.com (sid: JvedAT3Ze5yqn7thhzZ_SyG5dXCH8NIc)
+26.4.2021, 16:12:01 - DEBUG - auth.service - login with email: puki@gmail.com (sid: c2Oaz00nl_zcCJtVXDP9UTdoN6WEwlSK)
+26.4.2021, 16:27:28 - DEBUG - auth.service - login with email: puki@gmail.com (sid: xw6B-_QMdS21qhri9GU5jYQXL9dE3sTs)
+26.4.2021, 16:59:40 - INFO - Server is running on port: 3030 
+26.4.2021, 17:04:26 - DEBUG - auth.service - login with email: puki@gmail.com (sid: _5A0XWKuzVyzGGVIO3GQQn3zg-4Ipi0m)
+26.4.2021, 17:04:27 - DEBUG - auth.service - login with email: puki@gmail.com (sid: 7soGjaTifuWZ2siX1n2VhXJZpEmNv_03)
+26.4.2021, 17:18:40 - DEBUG - auth.service - signup with email: , name:  (sid: eClIGQ-ibgv8X7NqwMZnj8ZSLx7GzjAN)
+26.4.2021, 17:18:40 - ERROR - Failed to signup name, email and password are required! (sid: eClIGQ-ibgv8X7NqwMZnj8ZSLx7GzjAN)
+12.7.2021, 15:13:09 - INFO - Server is running on port: 3030 
+12.7.2021, 15:13:14 - DEBUG - auth.service - login with email: guest@gmail.com (sid: vUmKKiFvoePyk1Kg7ibKH1tbrYJ0H_SR)
+13.7.2021, 11:13:04 - INFO - Server is running on port: 3030 
+13.7.2021, 11:16:26 - DEBUG - auth.service - login with email: guest@gmail.com (sid: JC8mNVvREHlJedKSwMni31pFIoB92LZR)
+13.7.2021, 11:34:55 - DEBUG - auth.service - login with email: guest@gmail.com (sid: nUNyPXF36Ybv-IxXPIsWq9_IjxGhuzAh)
+13.7.2021, 11:35:38 - DEBUG - auth.service - login with email: guest@gmail.com (sid: WN5gXythdpuWqVSi9Tltmhf6jlGrQe5s)
+13.7.2021, 11:41:53 - DEBUG - auth.service - login with email: guest@gmail.com (sid: TgCP-HQ7R5P_pI5No9yfM__ZSG4yfUC3)
+13.7.2021, 11:54:40 - DEBUG - auth.service - login with email: guest@gmail.com (sid: brzdB2be5n5Xd4J8YhhvAcC5P5Nd1x-9)
+13.7.2021, 12:09:51 - DEBUG - auth.service - login with email: guest@gmail.com (sid: OhWR0iEgzCjgvKS6Qt5e9HBnOaF8Y7Ti)
+13.7.2021, 12:16:07 - DEBUG - auth.service - login with email: guest@gmail.com (sid: BopEboHKqCb7_KExKMNYMr3EIy-RfOWx)
+13.7.2021, 13:32:17 - DEBUG - auth.service - login with email: guest@gmail.com (sid: onDzzBWj0OK2TF-NtVUGcU6FIbxY22mp)
+13.7.2021, 13:46:29 - DEBUG - auth.service - login with email: guest@gmail.com (sid: NObwvmJkRhL8kiNR8nNqH_TZe-XvSHbV)
+13.7.2021, 13:54:59 - DEBUG - auth.service - login with email: guest@gmail.com (sid: gU_5WpKRf7-9Zovt70HwEASOky-uxQbA)
+18.7.2021, 11:49:32 - INFO - Server is running on port: 3030 
+18.7.2021, 15:56:40 - INFO - Server is running on port: 3030 
+18.7.2021, 15:59:21 - DEBUG - auth.service - login with email: guest@gmail.com (sid: Tq7CxgF77TQIdeQmr5YYUxA8_Rhwt27Q)
